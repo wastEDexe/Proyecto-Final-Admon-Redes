@@ -1,0 +1,26 @@
+nov 25 21:51:50 mail.midominio.local backup-script[5920]: Iniciando respaldo COMPLETO.
+nov 25 21:51:50 mail.midominio.local backup-script[5924]: Respaldo completo local finalizado correctamen>
+nov 25 21:54:03 mail.midominio.local backup-script[5949]: ERROR: El respaldo completo remoto falló.
+nov 25 21:54:03 mail.midominio.local backup-script[5950]: Respaldo COMPLETO finalizado.
+nov 25 22:03:34 mail.midominio.local backup-script[6338]: Iniciando respaldo COMPLETO.
+nov 25 22:03:35 mail.midominio.local backup-script[6342]: Respaldo completo local finalizado correctamen>
+nov 25 22:05:05 mail.midominio.local backup-script[6363]: ERROR: El respaldo completo remoto falló.
+nov 25 22:05:05 mail.midominio.local backup-script[6364]: Respaldo COMPLETO finalizado.
+nov 25 22:33:02 mail.midominio.local backup-script[7619]: Iniciando respaldo COMPLETO.
+nov 25 22:33:03 mail.midominio.local backup-script[7623]: Respaldo completo local finalizado correctamen>
+nov 25 22:33:04 mail.midominio.local backup-script[7627]: ERROR: El respaldo completo remoto falló.
+nov 25 22:33:04 mail.midominio.local backup-script[7628]: Respaldo COMPLETO finalizado.
+nov 25 22:35:32 mail.midominio.local backup-script[7719]: Iniciando respaldo COMPLETO.
+nov 25 22:35:32 mail.midominio.local backup-script[7723]: Respaldo completo local finalizado correctamen>
+nov 25 22:35:34 mail.midominio.local backup-script[7728]: ERROR: El respaldo completo remoto falló.
+nov 25 22:35:34 mail.midominio.local backup-script[7729]: Respaldo COMPLETO finalizado.
+-- Boot 7fd7e0e4208f4f33a3a937123975b3d7 --
+nov 26 19:43:20 mail.midominio.local backup-script[4948]: Iniciando respaldo COMPLETO.
+nov 26 19:43:20 mail.midominio.local backup-script[4952]: Respaldo completo local finalizado correctamen>
+nov 26 19:43:21 mail.midominio.local backup-script[4957]: ERROR: El respaldo completo remoto falló.
+nov 26 19:43:21 mail.midominio.local backup-script[4958]: Respaldo COMPLETO finalizado.
+nov 26 19:45:23 mail.midominio.local backup-script[5159]: Iniciando respaldo COMPLETO.
+nov 26 19:45:23 mail.midominio.local backup-script[5163]: Respaldo completo local finalizado correctamen>
+nov 26 19:45:37 mail.midominio.local backup-script[5169]: Respaldo completo remoto finalizado correctame>
+nov 26 19:45:37 mail.midominio.local backup-script[5170]: Respaldo COMPLETO finalizado.
+lines 1-25/25 (END)
